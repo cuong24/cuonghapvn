@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **AWS** and **Deep Learning**
-- 🌱 I’m currently learning about **Scrum**
+- 🔭 I’m currently working on **Web Application** 
+- 🌱 I’m currently learning about **Scrum**, **AWS** and **Deep Learning**
 - 💬 Ask me about everything
 - 📫 How to reach me: [My Blog](https://cuongn.com)
 
